@@ -1,11 +1,9 @@
 package com.tacademy.date;
 
-public class A {
+public class B {
 
-	public A() {
+	public B() {
 		// TODO Auto-generated constructor stub
 	}
-	void yohan() {
-		
-	}
+
 }
